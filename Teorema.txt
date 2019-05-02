@@ -1,0 +1,14 @@
+Cachorro;1;3;
+Chato;2;7;
+Piada;6;8;
+Triste;0;8;
+Gato;5;0;
+Feliz;9;0;
+Rebelde;1;7;
+Facil;5;2;
+Mal;0;14;
+Lerdo;1;6;
+Bonito;18;0;
+Novo;12;3;
+Politico;2;6;
+Canso;3;7;
